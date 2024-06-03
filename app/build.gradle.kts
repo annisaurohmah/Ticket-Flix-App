@@ -61,7 +61,7 @@ dependencies {
     //navigation
     implementation ("androidx.navigation:navigation-fragment-ktx:2.6.0")
     implementation ("androidx.navigation:navigation-ui-ktx:2.6.0")
-    //firebase (gtw yg kepake yg mana hiks)
+    //firebase
     implementation ("com.google.firebase:firebase-core:16.0.0")
     implementation ("com.google.firebase:firebase-auth:21.0.1")
     implementation ("com.google.firebase:firebase-firestore:23.0.0")
